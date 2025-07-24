@@ -30,7 +30,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado em Python. Aqui, pra
 
 1. Clone este repositório:
 ``` bash
-git clone https://github.com/seu-usuario/gerenciador-tarefas
+git clone https://github.com/seu-usuario/gerenciador_tarefas
 ```
 
 ## 🧠  Próximos Passos (melhorias futuras)
